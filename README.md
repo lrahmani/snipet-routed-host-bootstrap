@@ -2,7 +2,7 @@
 
 Hi guys,
 
-I am trying to deploy a private DHT using libp2p independetenly from ipfs.
+I am trying to deploy a private DHT using libp2p independently from ipfs.
 Souce code of the node is available at https://github.com/lrahmani/snipet-routed-host-bootstrap. 
 I wrote it by piecing together different snippets from libp2p official examples (mostly routed echo).
 
